@@ -29,7 +29,7 @@
         "Nope, doesn't look like it.",
         "Wow, now there's a change, I've not seen him today",
         "I've not seen him around recently.",
-        "Nope, sales have dropped since he left"
+        "Nope, sales have dropped significantly since he left"
     );
 
     $maybe = array(
