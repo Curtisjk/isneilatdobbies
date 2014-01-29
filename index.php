@@ -56,7 +56,7 @@
 	    <div id="footer">
 	      <div class="container">
 	        <p class="text-muted">
-	        	&copy; Is Neil at Dobbies? - 2014</br>Created by <a href="http://twitter.com/Curtisjk">@Curtisjk</a> and <a href="http://twitter.com/JayBriers">@JayBriers</a></p>
+	        	&copy; Is Neil at Dobbies? - 2014</br>Created by <a href="http://twitter.com/Curtisjk">@Curtisjk</a> and <a href="http://twitter.com/JayBriers">@JayBriers</a>. Fork us on <a href="https://github.com/Curtisjk/isneilatdobbies" target="_blank">GitHub</a>.</p>
 	      </div>
 	    </div>
 	</body>
