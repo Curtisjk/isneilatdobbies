@@ -27,8 +27,9 @@
     $negative = array(
         "Nope, not here at the moment.",
         "Nope, doesn't look like it.",
-        "Wow, now thats a change, doesn't look like it.",
-        "I've not seen him around recently."
+        "Wow, now there's a change, I've not seen him today",
+        "I've not seen him around recently.",
+        "Nope, sales have dropped since he left"
     );
 
     $maybe = array(
