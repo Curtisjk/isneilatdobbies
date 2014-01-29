@@ -1,0 +1,1015 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"too",
+				"tooEarly"
+			],
+			[
+				"num",
+				"numbers"
+			],
+			[
+				"la",
+				"labelID"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"new",
+				"newVal"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"after",
+				"afternoon"
+			],
+			[
+				"mo",
+				"morning"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"mor",
+				"morningAfter"
+			],
+			[
+				"hour",
+				"hourOfDay"
+			],
+			[
+				"hou",
+				"hourOfDay"
+			],
+			[
+				"day",
+				"dayOfWeek"
+			],
+			[
+				"las",
+				"lastCheckLocId"
+			],
+			[
+				"number",
+				"numbers"
+			],
+			[
+				"user",
+				"user_profile"
+			],
+			[
+				"do",
+				"dobbies"
+			],
+			[
+				"tim",
+				"timeAgo"
+			],
+			[
+				"us",
+				"user_profile"
+			],
+			[
+				"nu",
+				"numberID"
+			],
+			[
+				"numb",
+				"numberID"
+			],
+			[
+				"numbe",
+				"numbers"
+			],
+			[
+				"label",
+				"label"
+			],
+			[
+				"update",
+				"updateLabelUI"
+			],
+			[
+				"rep",
+				"repeatingPageActions"
+			],
+			[
+				"repea",
+				"repeatingPageActions"
+			],
+			[
+				"repeat",
+				"repeatingPageActions"
+			],
+			[
+				"process",
+				"processAction"
+			],
+			[
+				"get",
+				"getFlag"
+			],
+			[
+				"act",
+				"actualFlagValue"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"action",
+				"action"
+			],
+			[
+				"pro",
+				"processActions"
+			],
+			[
+				"proce",
+				"processAction"
+			],
+			[
+				"ac",
+				"actualFlagValue"
+			],
+			[
+				"fla",
+				"flags"
+			],
+			[
+				"bu",
+				"buttonReleased"
+			],
+			[
+				"acto",
+				"actionType"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"repe",
+				"repeatersCount"
+			],
+			[
+				"press",
+				"pressed"
+			],
+			[
+				"sin",
+				"singleClick"
+			],
+			[
+				"in",
+				"interactionType"
+			],
+			[
+				"ele",
+				"elementList"
+			],
+			[
+				"top",
+				"topFrame"
+			],
+			[
+				"fl",
+				"flagID"
+			],
+			[
+				"labe",
+				"labelDef"
+			],
+			[
+				"data",
+				"data-cmd"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"set",
+				"setFlag"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"flag",
+				"flagID"
+			],
+			[
+				"at",
+				"attr"
+			],
+			[
+				"vel",
+				"velocityRequired"
+			],
+			[
+				"ve",
+				"velocityRequired"
+			],
+			[
+				"this",
+				"this"
+			],
+			[
+				"mak",
+				"makeSwipeable"
+			],
+			[
+				"curr",
+				"currentX"
+			],
+			[
+				"gest",
+				"gesturesY"
+			],
+			[
+				"pre",
+				"previousPosY"
+			],
+			[
+				"ges",
+				"gesturesX"
+			],
+			[
+				"vec",
+				"velocityX"
+			],
+			[
+				"v",
+				"velocityY"
+			],
+			[
+				"st",
+				"startPositionX"
+			],
+			[
+				"prev",
+				"previousPosX"
+			],
+			[
+				"sta",
+				"startPositionY"
+			],
+			[
+				"cur",
+				"currentScreenH"
+			],
+			[
+				"sc",
+				"screensH"
+			],
+			[
+				"scroll",
+				"scrollLeft"
+			],
+			[
+				"view",
+				"viewWidth"
+			],
+			[
+				"curre",
+				"currentScreenH"
+			],
+			[
+				"total",
+				"totalHeight"
+			],
+			[
+				"ge",
+				"gesturesY"
+			],
+			[
+				"mouse",
+				"mousedown"
+			],
+			[
+				"star",
+				"startPositionX"
+			],
+			[
+				"sele",
+				"selectedFolderID"
+			],
+			[
+				"fold",
+				"folderOptions"
+			],
+			[
+				"show",
+				"showPublic"
+			],
+			[
+				"admin",
+				"admin_setting_configcheckbox"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"course",
+				"courseid"
+			],
+			[
+				"cour",
+				"courseid"
+			],
+			[
+				"cou",
+				"courseid"
+			],
+			[
+				"instan",
+				"instance"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"C",
+				"COURSE"
+			],
+			[
+				"prov",
+				"provision_url"
+			],
+			[
+				"select",
+				"selectFolderID"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"get_cour",
+				"get_course_category"
+			],
+			[
+				"vi",
+				"video_list"
+			],
+			[
+				"vide",
+				"video_list"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"mod_panopto",
+				"mod_panopto_soap_client"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"mod",
+				"mod_luact_fpembed"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"offX",
+				"offX"
+			],
+			[
+				"La",
+				"layerX"
+			],
+			[
+				"off",
+				"offsetY"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"offse",
+				"offsetX"
+			],
+			[
+				"visib",
+				"visible"
+			],
+			[
+				"mous",
+				"mouseInGraph"
+			],
+			[
+				"mou",
+				"mouseInGraph"
+			],
+			[
+				"fee",
+				"feedbackContainer"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"elemt",
+				"elements"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"luact_fe",
+				"luact_feedback_values"
+			],
+			[
+				"luact_fee",
+				"luact_feedback_data"
+			],
+			[
+				"upd",
+				"updateSeries"
+			],
+			[
+				"char",
+				"chartSeries"
+			],
+			[
+				"seri",
+				"seriesid"
+			],
+			[
+				"json",
+				"jsonInput"
+			],
+			[
+				"point",
+				"pointval"
+			],
+			[
+				"feedback",
+				"feedbackCol1"
+			],
+			[
+				"array",
+				"arrayofvars"
+			],
+			[
+				"color",
+				"colorFieldName"
+			],
+			[
+				"lua",
+				"luact"
+			],
+			[
+				"res",
+				"responseobject"
+			],
+			[
+				"ser",
+				"seriesmap"
+			],
+			[
+				"print",
+				"print_object"
+			],
+			[
+				"reson",
+				"response"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "getStatus.php",
+			"settings":
+			{
+				"buffer_size": 5634,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/neil/config.php",
+		"/private/var/folders/8r/dm6ndhhn0j5c5w6_p814wnl40000gn/T/dad4bb6a-a13a-4bca-9e62-b47e2f2d8715/getStatus.php",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/static/js/demopad-swipeUI.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/neil/getStatus.php",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/page~[pageID]~.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/ise/index.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/static/css/global.css",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/static/js/demopad-makeButton.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/static/js/demopad-onload.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/neil/php-sdk/facebook.php",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/static/js/demopad-generateActions.js",
+		"/Applications/MAMP/htdocs/neil.php",
+		"/Applications/MAMP/htdocs/isneilatdobbies/index.php",
+		"/Users/Jay/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Jay/Documents/omxplayerInstall/omxplayer.sh",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/ise/page16.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/ise/page9.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/button2/page1.html",
+		"/Users/Jay/Documents/omxplayer/install.sh",
+		"/Users/Jay/Downloads/http_server.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/button/page1.html",
+		"/Users/Jay/Dropbox/DemoPad/Lancaster Uni Files/Files for Arch Linux/omxplayerInstall/omxplayer.sh",
+		"/Users/Jay/Downloads/omxplayer.sh",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/action.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/static/js/onload.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/static/js/generateActions.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/static/js/makeButton/makeButton.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/index.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/gen2/static/js/generateActions.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/label.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/images.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/iframe.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/gauge.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/button.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/labels.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/ise/page1.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/ise/static/js/blockUI/blockUI.js",
+		"/Users/Jay/Dropbox/DemoPad/Lancaster Uni Files/Centro Website Interface/WebInterface/elements/button.html",
+		"/Users/Jay/Dropbox/DemoPad/Lancaster Uni Files/Centro Website Interface/WebInterface/elements/label.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/numbers.html",
+		"/Users/Jay/Dropbox/DemoPad/Lancaster Uni Files/Centro Website Interface/WebInterface/elements/images.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/gen2/page21.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/gen2/page1.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/gen2/page10.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/gen2/files/eyebrook.xml",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/gen2/index.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/gen2/static/js/onload.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/gen2/static/js/blockUI/blockUI.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/gen2/static/js/jquery.blockUI.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/gen2/files/page10.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/adv-14-jan/files/pad.xml",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/adv-14-jan/js/onload.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/generated.css",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/flags.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/font.css",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/readme.txt",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/color.css",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/buttonAction.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/adv-14-jan/js/makeButton/makeButton.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/adv-14-jan/page4.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/adv-14-jan/page1.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/adv-14-jan/js/generateActions.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/adv-14-jan/index.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/elements/flag.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/adv-14-jan/js/makeButton.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/adv-14-jan/js/swipeUI/swipeUI.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/basic-13-jan/page2.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/basic-13-jan/page1.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation/Generate HTML Plan.txt",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Test scroller/page1.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Test scroller/swipeUI.js",
+		"/Applications/MAMP/htdocs/luact/index.php",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Test scroller/index.html",
+		"/Users/Jay/Dropbox/DemoPad/jquery-ui-1.10.3.custom.js",
+		"/Applications/MAMP/htdocs/luact/script.js",
+		"/Applications/MAMP/htdocs/luact/youTubeEmbed/youTubeEmbed-jquery-1.0.js",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation/index.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/basic-13-jan/files/1roomipad.xml",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/css/global.css",
+		"/Users/Jay/Dropbox/DemoPad/Lancaster Uni Files/1roomipad/1roomipad.pad_Files/1roomipad.xml",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Home.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/basic-13-jan/Home.html",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generate HTML Plan.txt",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generate Actions.txt",
+		"/Users/Jay/Dropbox/DemoPad/Demopad web interface/page1.html",
+		"/Users/Jay/Dropbox/DemoPad/Generate HTML",
+		"/Users/Jay/Dropbox/DemoPad/Lancaster Uni Files/Centro Website Interface/indexOriginal.html",
+		"/Users/Jay/Dropbox/DemoPad/Lancaster Uni Files/Centro Website Interface/helpermonkeys.js",
+		"/Users/Jay/Dropbox/Demopad web interface/page1.html",
+		"/Users/Jay/Dropbox/Demopad web interface/Home.html",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/SSO.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/db/access.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/db/install.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/db/upgrade.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/lib.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/locallib.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/mod_form.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/settings.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/version.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/view.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/lib/mod_panopto_data.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/lib/mod_panopto_soap_client.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/lib/mod_panopto_lib.php",
+		"/Applications/MAMP/htdocs/panopto block/README.md",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/README.md",
+		"/Applications/MAMP/htdocs/panopto block/LICENSE.txt",
+		"/Applications/MAMP/htdocs/moodle/config.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/LICENSE",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/readme.txt",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/db/install.xml",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/lang/en/panopto.php",
+		"/Users/Jay/Development/Moodle/Mod/Panopto/Panopto-Moodle-Mod/version.php",
+		"/Users/Jay/Development/Moodle/Mod/Panopto/Panopto-Moodle-Mod/.gitignore",
+		"/Users/Jay/Downloads/icon.svg",
+		"/Applications/MAMP/htdocs/panopto block/lang/en/block_panopto.php",
+		"/Applications/MAMP/htdocs/moodle/mod/luact/db/upgrade.php",
+		"/Applications/MAMP/htdocs/panopto block/db/install.xml",
+		"/Applications/MAMP/htdocs/moodle/mod/quiz/lib.php",
+		"/Applications/MAMP/htdocs/moodle/blocks/panopto/block_panopto.php",
+		"/Applications/MAMP/htdocs/moodle/blocks/panopto/db/install.xml",
+		"/Applications/MAMP/htdocs/moodle/blocks/panopto/edit_form.php",
+		"/Applications/MAMP/htdocs/moodle/blocks/panopto/settings.php",
+		"/Applications/MAMP/htdocs/moodle/blocks/panopto/version.php",
+		"/Applications/MAMP/htdocs/moodle/blocks/panopto/provision_course.php",
+		"/Applications/MAMP/htdocs/moodle/blocks/rss_client/block_rss_client.php",
+		"/Applications/MAMP/htdocs/moodle/blocks/rss_client/version.php",
+		"/Applications/MAMP/htdocs/moodle/blocks/panopto/updater.php",
+		"/Applications/MAMP/htdocs/moodle/mod/panopto/lib/PanoptoSoapClient.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/Jay/Dropbox/DemoPad/Demopad web interface/ise",
+			"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/static/js",
+			"/Users/Jay/Dropbox/DemoPad/Demopad web interface/ise",
+			"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/static/js",
+			"/Users/Jay/Dropbox/DemoPad/Demopad web interface/ise",
+			"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/static",
+			"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme/static/js",
+			"/Users/Jay/Dropbox/DemoPad/Demopad web interface/gen2",
+			"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme",
+			"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation",
+			"/Users/Jay/Dropbox/DemoPad/Demopad web interface/Generation Theme",
+			"/Applications/MAMP/htdocs/moodle/mod/panopto"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"there",
+			"[+]",
+			"label ",
+			"label",
+			"update ele",
+			"files/\"",
+			"setNumber",
+			"updateNumberLocal",
+			"vnum",
+			"UI",
+			"cmd=\"N",
+			"clk",
+			"*",
+			"count",
+			"processAction",
+			"processActions",
+			"performactions",
+			"performaction",
+			"performactions",
+			"full",
+			"omxplayer",
+			"omx",
+			"selector",
+			"performActions",
+			"Type=\"3\"",
+			"interactionType",
+			"performActions",
+			"type=\"5\"",
+			"type=\"5\" cmd=\"21\"",
+			"type=\"5\"",
+			"X0003",
+			"kitchen",
+			"vj",
+			"vdispla",
+			"vserialjoin=\"3\"",
+			"type=\"5\"",
+			"nca",
+			"vnum",
+			"~{",
+			"{",
+			"[",
+			"}~",
+			"~{",
+			"&#92;",
+			"\\\"",
+			"\\",
+			"swipe",
+			"31",
+			"font=\"1\" title=\"\" titlecolor=\"3\" image_a=\"25\"",
+			"pushhighlight=\"1\"",
+			"pageid=\"1\"",
+			"pageid=\"0\"",
+			"\" h=\"",
+			"\" w=\"",
+			"\" ly=\"",
+			"lx=\"",
+			"x=\"-1\" y=\"-1\"",
+			"31",
+			"Light",
+			"h",
+			"w",
+			"ly",
+			"lx",
+			"x:-1; y:-1;",
+			"\"",
+			"=\"",
+			"slide",
+			"swipe",
+			"24",
+			"scroll",
+			"slider",
+			"image",
+			"label",
+			"Source",
+			"Title",
+			"Source 1",
+			"S0001",
+			"action",
+			"volume",
+			"tag",
+			"macro",
+			"2009 Petr Skoda  {@link http://skodak.org}",
+			"folder id = '",
+			"var_dump($config",
+			"$config",
+			"asy",
+			"sync",
+			"pro",
+			"provis",
+			"CoursePublicID",
+			"Guid",
+			"block_global_hostname",
+			"block_pan",
+			"get_pan",
+			"sessiongroup",
+			"z",
+			"c",
+			"s",
+			"sss",
+			"ss",
+			"s",
+			"a",
+			"sessiongroup_",
+			"ses",
+			"sessiongroup",
+			"folderID",
+			"soap",
+			" Could not connect to host",
+			"requiremodintro",
+			"block_panopto_foldermap",
+			"panopto_",
+			"block",
+			"validation(",
+			"validation(	",
+			"validation(",
+			"validation",
+			"mod_panopto_fix_submitted_panopto",
+			"valid",
+			"panopto_",
+			"COURSE",
+			"course",
+			"http_acce",
+			"http",
+			"35",
+			"get regex",
+			"\n    ",
+			"/>\";"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"interactiontype",
+			"]~",
+			"~[",
+			"&#34;",
+			"&#92;",
+			"",
+			"0",
+			"; height:",
+			"; width:",
+			"; top:",
+			"left:",
+			"style=\"",
+			"height",
+			"width",
+			"top",
+			"left",
+			"style=\"",
+			"",
+			";",
+			":",
+			"2013 Jay Briers {@link http://jrbriers.co.uk}",
+			"mod_panopto_",
+			"mod_pan",
+			"mod_panopto_",
+			"\"",
+			"'",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "getStatus.php",
+					"settings":
+					{
+						"buffer_size": 5634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.957983193277,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true
+}

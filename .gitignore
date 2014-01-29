@@ -1,2 +1,4 @@
 config.php
 error_log
+.sublime-project
+.sublime-workspace
