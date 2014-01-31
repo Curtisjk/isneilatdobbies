@@ -22,7 +22,10 @@
     );
 
     $angela = array(
+<<<<<<< HEAD
         "Yep, and Ang's turn to get the beers in!"
+=======
+>>>>>>> 7586b4ce222728d6ddd4ab1471b96b40cf10bbab
         "Looks like Angela's there too!"
     );
 
