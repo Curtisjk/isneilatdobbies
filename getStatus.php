@@ -21,7 +21,7 @@
     );
 
     $angela = array(
-        ""
+        "Looks like Angela's there too!"
     );
 
     $negative = array(
