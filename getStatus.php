@@ -109,7 +109,7 @@
                     }
                 }
 
-                if(($hourOfDay < 12) && ($hourOfDay > 4) && ($timeAgo->h < 15)){//if he was here in the last 15 hours, and its the morning
+                if(($hourOfDay < 12) && ($hourOfDay > 4) && ($timeAgo->h < 15) && ($timeAgo->d == 0)){//if he was here in the last 15 hours, and its the morning
                     $merged = array_merge($merged,$morningAfter);//add the morning after strings
                 }
 
