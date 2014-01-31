@@ -27,17 +27,17 @@
     $negative = array(
         "Nope, not here at the moment.",
         "Nope, doesn't look like it.",
-        "Wow, now there's a change, I've not seen him today",
+        "Wow, now there's a change, I've not seen him today.",
         "I've not seen him around recently.",
-        "Nope, sales have dropped significantly since he left"
+        "Nope, sales have dropped significantly since he left."
     );
 
     $maybe = array(
         "Probably still here to be honest.",
-        "It's probably around the time that money is lost on the Fruit Machine",
+        "It's probably around the time that money is lost on the Fruit Machine.",
         "I've seen him here recently, could have moved on by now.",
-        "He's probably still here somewhere, not sure he ever leaves",
-        "It's getting late, probably about time he left"
+        "He's probably still here somewhere, not sure he ever leaves.",
+        "It's getting late, probably about time he left."
     );
 
     $morning = array(
